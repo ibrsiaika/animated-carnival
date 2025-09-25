@@ -1,0 +1,23 @@
+# Build artifacts
+*.o
+*.so
+test_hooks
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Core dumps
+core.*
